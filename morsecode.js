@@ -6,7 +6,8 @@
 var MorseCode = (function () {
     var morseCode = {},
         morseCharacter = new Object();
-
+        
+    //Brackets are an alternative way to display properties instead of the period.  Brackets are also used in Objective C
     morseCharacter["A"] = ".-";
     morseCharacter["B"] = "-...";
     morseCharacter["C"] = "-.-.";
