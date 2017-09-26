@@ -71,140 +71,132 @@ var MorseCode = (function () {
                case 98: //b
                     return morseCharacter["B"];
                     break;
-/*
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 67: //C
+               case 99: //c
+                    return morseCharacter["C"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 68: //D
+               case 100: //d
+                    return morseCharacter["D"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 69: //E
+               case 101: //e
+                    return morseCharacter["E"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 70: //F
+               case 102: //f
+                    return morseCharacter["F"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 71: //G
+               case 103: //g
+                    return morseCharacter["G"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 72: //H
+               case 104: //h
+                    return morseCharacter["H"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 73: //I
+               case 105: //i
+                    return morseCharacter["I"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 74: //J
+               case 106: //j
+                    return morseCharacter["J"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 75: //K
+               case 107: //k
+                    return morseCharacter["K"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 76: //L
+               case 108: //l
+                    return morseCharacter["L"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 77: //M
+               case 109: //m
+                    return morseCharacter["M"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 78: //N
+               case 110: //n
+                    return morseCharacter["N"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 79: //O
+               case 111: //o
+                    return morseCharacter["O"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 80: //P
+               case 112: //p
+                    return morseCharacter["P"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 81: //Q
+               case 113: //q
+                    return morseCharacter["Q"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 82: //R
+               case 114: //r
+                    return morseCharacter["R"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 83: //S
+               case 115: //s
+                    return morseCharacter["S"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 84: //T
+               case 116: //t
+                    return morseCharacter["T"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 85: //U
+               case 117: //u
+                    return morseCharacter["U"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 86: //V
+               case 118: //v
+                    return morseCharacter["V"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 87: //W
+               case 119: //w
+                    return morseCharacter["W"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 88: //X
+               case 120: //x
+                    return morseCharacter["X"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 89: //Y
+               case 121: //y
+                    return morseCharacter["Y"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 90: //Z
+               case 122: //z
+                    return morseCharacter["Z"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 48: //0
+                    return morseCharacter["0"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 49: //1
+                    return morseCharacter["1"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 50: //2
+                    return morseCharacter["2"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 51: //3
+                    return morseCharacter["3"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 52: //4
+                    return morseCharacter["4"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 53: //5
+                    return morseCharacter["5"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 54: //6
+                    return morseCharacter["6"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 55: //7
+                    return morseCharacter["7"];
                     break;
-               case : //
-               case : //
-                    return morseCharacter[""];
+               case 56: //8
+                    return morseCharacter["8"];
                     break;
-*/
+               case 57: //9
+                    return morseCharacter["9"];
+                    break;
                case 32: //space
                     return "&nbsp;&nbsp;";
                     break;
