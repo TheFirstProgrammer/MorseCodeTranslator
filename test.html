@@ -7,9 +7,20 @@
     <script src="morsecode.js"></script>
 </head>
 <body>
+<div id="output" style="font-family:'Courier New';font-size:18px"></div>
+
     <script>
-        console.log(MorseCode.Display);
-        document.write(MorseCode.Display);
+	//Show output only in console
+        //console.log(MorseCode.Display);
+
+	//Using write function to visually output the Display property value
+        //document.write(MorseCode.Display);
+
+	//Executing generic module method as a test
+	//MorseCode.moduleMethod();
+
+	//Notice when I call a named function I do not use parenthesis				
+        document.addEventListener("keydown",MorseCode.getMorseCharacter,false); 
     </script>
     
 </body>
